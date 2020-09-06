@@ -1,3 +1,4 @@
 # Sentiment-Analysis
-This Repository focuses specifically on the Sentiment analysis part.
-Currently I'm working on the twitter data. 
+Currently I'm working on the Twitter data. Find out how to extract tweets from Twitter using Tweepy api and  TweetListener
+Use basic sentiment analysis tool to analyse the data extracted from twitter. 
+Cheers! :)
